@@ -1,0 +1,7 @@
+<resources xmlns:android="http://schemas.android.com/tools">
+    <string name="app_name">UsesGoogleMap</string>
+
+    <string name="google_api_key">AIzaSyCPOa0MgOUOiiZ4BW2IIOwa2bXS3C-0VjM</string>
+    <string name="zip_hint">Please enter a zipcode</string>
+
+</resources>
